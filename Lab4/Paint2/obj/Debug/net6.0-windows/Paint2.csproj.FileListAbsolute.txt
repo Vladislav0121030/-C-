@@ -1,0 +1,32 @@
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\bin\Debug\net6.0-windows\Paint2.exe
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\bin\Debug\net6.0-windows\Paint2.deps.json
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\bin\Debug\net6.0-windows\Paint2.runtimeconfig.json
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\bin\Debug\net6.0-windows\Paint2.dll
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\bin\Debug\net6.0-windows\Paint2.pdb
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.Form1.resources
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.csproj.GenerateResource.cache
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.AssemblyInfoInputs.cache
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.AssemblyInfo.cs
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.csproj.CoreCompileInputs.cache
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.dll
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\refint\Paint2.dll
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.pdb
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\Paint2.genruntimeconfig.cache
+C:\Users\nickd\OneDrive\Desktop\Lab-main\Paint2\Paint2\obj\Debug\net6.0-windows\ref\Paint2.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\bin\Debug\net6.0-windows\Paint2.exe
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\bin\Debug\net6.0-windows\Paint2.deps.json
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\bin\Debug\net6.0-windows\Paint2.runtimeconfig.json
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\bin\Debug\net6.0-windows\Paint2.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\bin\Debug\net6.0-windows\Paint2.pdb
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.Form1.resources
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.csproj.GenerateResource.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.AssemblyInfoInputs.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.AssemblyInfo.cs
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.csproj.CoreCompileInputs.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\refint\Paint2.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.pdb
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\Paint2.genruntimeconfig.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab4\Paint2\obj\Debug\net6.0-windows\ref\Paint2.dll

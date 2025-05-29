@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojDRhCQ6QIo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nickd\\OneDrive\\Desktop\\Программирование C#\\Lab4\\Paint2\\Paint2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nickd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nickd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nickd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nickd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\Lab6.2\Lab6.2\bin\Debug\Lab6.2.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\Lab6.2\Lab6.2\bin\Debug\Lab6.2.pdb
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.AssemblyReference.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.CoreCompileInputs.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\Lab6.2\Lab6.2\obj\Debug\Lab6.2.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\Lab6.2\Lab6.2\obj\Debug\Lab6.2.pdb

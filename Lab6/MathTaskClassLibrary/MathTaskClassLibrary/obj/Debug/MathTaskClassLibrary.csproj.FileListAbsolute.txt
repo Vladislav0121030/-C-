@@ -1,0 +1,6 @@
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.pdb
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab6\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.pdb

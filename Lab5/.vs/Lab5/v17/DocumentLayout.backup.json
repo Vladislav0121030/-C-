@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|c:\\users\\nickd\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 c#\\lab6\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|c:\\users\\nickd\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 c#\\lab6\\lab5\\lab5\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|solutionrelative:lab5\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|c:\\users\\nickd\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 c#\\lab6\\lab5\\lab5\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|solutionrelative:lab5\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|c:\\users\\nickd\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 c#\\lab6\\lab5\\lab5\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|solutionrelative:lab5\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|c:\\users\\nickd\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 c#\\lab6\\lab5\\lab5\\equation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF842E7-681F-49F9-A0FD-BC486FF7E878}|Lab5\\Lab5.csproj|solutionrelative:lab5\\equation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Equation.cs",
+              "DocumentMoniker": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\Equation.cs",
+              "RelativeDocumentMoniker": "Lab5\\Equation.cs",
+              "ToolTip": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\Equation.cs",
+              "RelativeToolTip": "Lab5\\Equation.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAywGgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:03:46.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab5\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\MainForm.Designer.cs",
+              "RelativeToolTip": "Lab5\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:11:06.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Program.cs",
+              "ToolTip": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\Program.cs",
+              "RelativeToolTip": "Lab5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:01:45.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab5\\MainForm.cs",
+              "ToolTip": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\MainForm.cs",
+              "RelativeToolTip": "Lab5\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:59:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab5\\MainForm.cs",
+              "ToolTip": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab5\\Lab5\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab5\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:11:07.056Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

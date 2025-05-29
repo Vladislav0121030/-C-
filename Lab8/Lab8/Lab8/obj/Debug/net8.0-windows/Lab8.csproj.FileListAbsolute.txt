@@ -1,0 +1,17 @@
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.LogForm.resources
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.MainForm.resources
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.csproj.GenerateResource.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\nickd\OneDrive\Desktop\Программирование C#\Lab8\Lab8\Lab8\obj\Debug\net8.0-windows\ref\Lab8.dll

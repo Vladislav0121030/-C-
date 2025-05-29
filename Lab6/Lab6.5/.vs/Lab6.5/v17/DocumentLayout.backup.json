@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab6.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25F04D-27D4-4A54-9D57-E9B3E7599F05}|Lab6.5\\Lab6.5.csproj|C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab6.5\\lab6.5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25F04D-27D4-4A54-9D57-E9B3E7599F05}|Lab6.5\\Lab6.5.csproj|solutionrelative:lab6.5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694BC80-0A0F-4EF3-AC85-FD1910D8EC2A}|Lab6.5Test\\Lab6.5Test.csproj|c:\\users\\nickd\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 c#\\lab6\\lab6.5\\lab6.5test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694BC80-0A0F-4EF3-AC85-FD1910D8EC2A}|Lab6.5Test\\Lab6.5Test.csproj|solutionrelative:lab6.5test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab6.5\\Lab6.5Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Lab6.5Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab6.5\\Lab6.5Test\\UnitTest1.cs",
+              "RelativeToolTip": "Lab6.5Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:59:32.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab6.5\\Lab6.5\\Class1.cs",
+              "RelativeDocumentMoniker": "Lab6.5\\Class1.cs",
+              "ToolTip": "C:\\Users\\nickd\\OneDrive\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 C#\\Lab6\\Lab6.5\\Lab6.5\\Class1.cs",
+              "RelativeToolTip": "Lab6.5\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:58:58.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
